@@ -11,6 +11,26 @@ struct Node {
         left = right = NULL;
     }
 };
+// Height of Tree
+int height(Node* root)
+{
+    if(root == NULL)
+    {
+        return -1;
+    }
+
+    int l = height(root->left);
+    int r = height(root->right);
+
+     int diameter = max(diameter, l + r);
+
+    return 1+max(l,r);
+}
+
+
+
+
+
 
 // Insert in BST
 Node* insert(Node* root, int key) {
@@ -25,8 +45,11 @@ Node* insert(Node* root, int key) {
     return root;
 }
 
+
+
 int main() {
     Node* root = NULL;
+    
 
     int n;
     cout << "Enter number of nodes: ";
@@ -38,6 +61,9 @@ int main() {
         cin >> x;
         root = insert(root, x);
     }
+
+    int diameter =0;
+
 
     return 0;
 }

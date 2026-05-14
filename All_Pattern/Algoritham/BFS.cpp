@@ -8,7 +8,7 @@ vector<int> bfs(int v , vector<int> adj[])
     vector<int> vis(v, 0);
     vis[0]=1;
     queue<int> q;
-    q.push(0);
+    q.push(0);      
     vector<int> bfs;
 
     while(!q.empty())

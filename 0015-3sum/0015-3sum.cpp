@@ -6,7 +6,6 @@ public:
         int n = nums.size();
 
         for (int i = 0; i < n - 2; i++) {
-            // Skip duplicate fixed elements
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
 
@@ -20,7 +19,6 @@ public:
                     j++;
                     k--;
 
-                    // Skip duplicate second elements
                     while (j < k && nums[j] == nums[j - 1])
                         j++;
 

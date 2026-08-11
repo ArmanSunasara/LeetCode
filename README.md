@@ -57,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ArmanSunasara/LeetCode/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/ArmanSunasara/LeetCode/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArmanSunasara/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ArmanSunasara/LeetCode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/ArmanSunasara/LeetCode/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArmanSunasara/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ArmanSunasara/LeetCode/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/ArmanSunasara/LeetCode/tree/master/0127-word-ladder) |
 ## String Matching
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ArmanSunasara/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ArmanSunasara/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

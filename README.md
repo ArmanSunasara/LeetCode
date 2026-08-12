@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ArmanSunasara/LeetCode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/ArmanSunasara/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ArmanSunasara/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ArmanSunasara/LeetCode/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/ArmanSunasara/LeetCode/tree/master/0200-number-of-islands) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ArmanSunasara/LeetCode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/ArmanSunasara/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArmanSunasara/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Union-Find

@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ArmanSunasara/LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/ArmanSunasara/LeetCode/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArmanSunasara/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ArmanSunasara/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ArmanSunasara/LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/ArmanSunasara/LeetCode/tree/master/0127-word-ladder) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ArmanSunasara/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ArmanSunasara/LeetCode/tree/master/0127-word-ladder) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ArmanSunasara/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->

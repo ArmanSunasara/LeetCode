@@ -8,7 +8,7 @@ public:
         while (n != 0) {
             int digit = n % 10;
             sum += digit;
-            prod *= digit;
+            if(prod) prod *= digit;
             n /= 10;
         }
         int temp =sum+prod;

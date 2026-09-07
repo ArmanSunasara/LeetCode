@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ArmanSunasara/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ArmanSunasara/LeetCode/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/ArmanSunasara/LeetCode/tree/master/0127-word-ladder) |
+| [0940-distinct-subsequences-ii](https://github.com/ArmanSunasara/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ArmanSunasara/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ArmanSunasara/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ArmanSunasara/LeetCode/tree/master/3903-smallest-stable-index-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/ArmanSunasara/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->

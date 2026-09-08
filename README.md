@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ArmanSunasara/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ArmanSunasara/LeetCode/tree/master/0509-fibonacci-number) |
 | [2029-stone-game-ix](https://github.com/ArmanSunasara/LeetCode/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ArmanSunasara/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ArmanSunasara/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ArmanSunasara/LeetCode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/ArmanSunasara/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Recursion
@@ -184,5 +186,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ArmanSunasara/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ArmanSunasara/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

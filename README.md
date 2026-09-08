@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/ArmanSunasara/LeetCode/tree/master/0509-fibonacci-number) |
 | [2029-stone-game-ix](https://github.com/ArmanSunasara/LeetCode/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ArmanSunasara/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/ArmanSunasara/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -174,5 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/ArmanSunasara/LeetCode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/ArmanSunasara/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ArmanSunasara/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ArmanSunasara/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

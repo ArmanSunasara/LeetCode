@@ -1,20 +1,22 @@
 class Solution {
-    int ans = 0;
-    pair<int, int> dfs(TreeNode* node) {
-        if (!node)
-            return {0, 0};
-        auto [ls, lc] = dfs(node->left);
-        auto [rs, rc] = dfs(node->right);
-        int sum = ls + rs + node->val;
-        int cnt = lc + rc + 1;
-        if (sum / cnt == node->val)
-            ans++;
-        return {sum, cnt};
+public:
+    pair<int, int> trav(TreeNode* root, int& count) {
+        if(root == nullptr) return {0, 0};
+
+        auto [leftSum, leftCount] = trav(root->left, count);
+        auto [rightSum, rightCount] = trav(root->right, count);
+
+        int subtreeSum = leftSum + rightSum + root->val;
+        int subtreeCount = leftCount + rightCount + 1;
+
+        if(subtreeSum / subtreeCount == root->val) count++;
+
+        return {subtreeSum, subtreeCount};
     }
 
-public:
     int averageOfSubtree(TreeNode* root) {
-        dfs(root);
-        return ans;
+        int count = 0;
+        trav(root, count);
+        return count;
     }
 };

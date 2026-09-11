@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/ArmanSunasara/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/ArmanSunasara/LeetCode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ArmanSunasara/LeetCode/tree/master/0185-department-top-three-salaries) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/ArmanSunasara/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/ArmanSunasara/LeetCode/tree/master/1193-monthly-transactions-i) |
 ## Array
 |  |

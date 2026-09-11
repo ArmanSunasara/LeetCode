@@ -1,24 +1,35 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        unordered_set<int> st;
-        for (int i = 0; i < digits.size(); i++) {
-            if (digits[i] == 0)
-                continue;
-            for (int j = 0; j < digits.size(); j++) {
-                if (j == i)
-                    continue;
-                for (int k = 0; k < digits.size(); k++) {
-                    if (i == k || j == k)
-                        continue;
-                    if (digits[k] % 2 != 0)
-                        continue;
+        vector<int> freq(10, 0);
 
-                    int num = digits[i] * 100 + digits[j] * 10 + digits[k];
-                    st.insert(num);
+        for (int d : digits)
+            freq[d]++;
+
+        int ans = 0;
+
+        for (int num = 100; num <= 998; num += 2) {
+            vector<int> need(10, 0);
+
+            int x = num;
+            need[x % 10]++;
+            x /= 10;
+            need[x % 10]++;
+            x /= 10;
+            need[x]++;
+
+            bool ok = true;
+
+            for (int d = 0; d <= 9; d++) {
+                if (need[d] > freq[d]) {
+                    ok = false;
+                    break;
                 }
             }
+
+            if (ok) ans++;
         }
-        return st.size();
+
+        return ans;
     }
 };

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ArmanSunasara/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ArmanSunasara/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ArmanSunasara/LeetCode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/ArmanSunasara/LeetCode/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/ArmanSunasara/LeetCode/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/ArmanSunasara/LeetCode/tree/master/0835-image-overlap) |
 | [2029-stone-game-ix](https://github.com/ArmanSunasara/LeetCode/tree/master/2029-stone-game-ix) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArmanSunasara/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ArmanSunasara/LeetCode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/ArmanSunasara/LeetCode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/ArmanSunasara/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArmanSunasara/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |

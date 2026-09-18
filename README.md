@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ArmanSunasara/LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ArmanSunasara/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ArmanSunasara/LeetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/ArmanSunasara/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ArmanSunasara/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ArmanSunasara/LeetCode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArmanSunasara/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ArmanSunasara/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ArmanSunasara/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ArmanSunasara/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/ArmanSunasara/LeetCode/tree/master/0836-rectangle-overlap) |

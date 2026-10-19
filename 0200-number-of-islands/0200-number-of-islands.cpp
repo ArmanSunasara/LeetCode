@@ -36,6 +36,8 @@ public:
         n = grid.size();
         m = grid[0].size();
 
+        if (grid.empty() || grid[0].empty()) return 0;
+
         vector<vector<int>> vis(n, vector<int>(m, 0));
 
         int count = 0;

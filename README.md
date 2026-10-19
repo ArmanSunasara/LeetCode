@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ArmanSunasara/LeetCode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ArmanSunasara/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArmanSunasara/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ArmanSunasara/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ArmanSunasara/LeetCode/tree/master/0049-group-anagrams) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ArmanSunasara/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArmanSunasara/LeetCode/tree/master/0035-search-insert-position) |
 | [0096-unique-binary-search-trees](https://github.com/ArmanSunasara/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ArmanSunasara/LeetCode/tree/master/0098-validate-binary-search-tree) |

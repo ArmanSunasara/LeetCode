@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ArmanSunasara/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ArmanSunasara/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ArmanSunasara/LeetCode/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/ArmanSunasara/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0463-island-perimeter](https://github.com/ArmanSunasara/LeetCode/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/ArmanSunasara/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/ArmanSunasara/LeetCode/tree/master/0682-baseball-game) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ArmanSunasara/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ArmanSunasara/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ArmanSunasara/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/ArmanSunasara/LeetCode/tree/master/3903-smallest-stable-index-i) |

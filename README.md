@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ArmanSunasara/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ArmanSunasara/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArmanSunasara/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0981-time-based-key-value-store](https://github.com/ArmanSunasara/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ArmanSunasara/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ArmanSunasara/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ArmanSunasara/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ArmanSunasara/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArmanSunasara/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ArmanSunasara/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0981-time-based-key-value-store](https://github.com/ArmanSunasara/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ArmanSunasara/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ArmanSunasara/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArmanSunasara/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ArmanSunasara/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/ArmanSunasara/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ArmanSunasara/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [0981-time-based-key-value-store](https://github.com/ArmanSunasara/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/ArmanSunasara/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ArmanSunasara/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ArmanSunasara/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ArmanSunasara/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/ArmanSunasara/LeetCode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
